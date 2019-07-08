@@ -1,5 +1,7 @@
 # weather-app
 
+Check the weather anywhere in the world.
+
 ```
 npm install
 ```

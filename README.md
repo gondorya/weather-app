@@ -1,6 +1,7 @@
 # weather-app
 
 Check the weather anywhere in the world.
+Based on mapbox.com and darksky.net 
 
 ```
 npm install
